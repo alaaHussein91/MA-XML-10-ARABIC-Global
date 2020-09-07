@@ -134,18 +134,18 @@
         <item>عد</item>
     </string-array>
     <string-array name="repeat_choose_month">
-        <item>يناير</item>
-        <item>فبراير</item>
-        <item>مارس</item>
-        <item>أبريل</item>
-        <item>مايو</item>
-        <item>يونيو</item>
-        <item>يوليو</item>
-        <item>أغسطس</item>
-        <item>سبتمبر</item>
-        <item>أكتوبر</item>
-        <item>نوفمبر</item>
-        <item>ديسمبر</item>
+        <item>كانون الثاني</item>
+        <item>شباط</item>
+        <item>آذار</item>
+        <item>نيسان</item>
+        <item>أيار</item>
+        <item>حزيران</item>
+        <item>تموز</item>
+        <item>آب</item>
+        <item>أيلول</item>
+        <item>تشرين الأول</item>
+        <item>تشرين الثاني</item>
+        <item>كانون الأول</item>
     </string-array>
     <string-array name="repeat_choose_week_left">
         <item>الأول</item>
@@ -164,7 +164,7 @@
         <item>الثلاثاء</item>
         <item>الأربعاء</item>
         <item>الخميس</item>
-        <item>جمعة</item>
+        <item>الجمعة</item>
         <item>السبت</item>
         <item>الأحد</item>
     </string-array>
